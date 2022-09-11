@@ -22,8 +22,11 @@
 
 ## Build with
  - Html
+ HTML is finished by Immama, Ying and Ameem. Ying has done the "Home" and "About US" page with HTML.
  - CSS
+ The CSS is finished by Ameem and Ying. The CSS of "Home" and "About US" is made by Ying.
  - JavaScript
+ 
  When you open the "About Us"page, you can click the members'photo and get more information. After you check all the information, you can use "close" button to shut down all information. When you open the "Home" page, you can see a video and click "play""pause" and "stop" to get differenct feeling.
  All the JS is made by Ying Yang. She learns some knowledge during the summer and improves it.
 

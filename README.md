@@ -28,12 +28,12 @@
 Enjoy!
 
 ## Credits (Designer and Developers)
-- Ameem Rahman
-- Matthew Tenuta
-- Emre Usun
-- Ayman Oualifi
-- Ying Yang
-- Immama Ayoub
+- Ameem Rahman--Developer
+- Matthew Tenuta--Designer
+- Emre Usun--Designer
+- Ayman Oualifi--Designer
+- Ying Yang--Developer
+- Immama Ayoub--Designer
 
 ## License
 MIT © 2022 Astro Digital

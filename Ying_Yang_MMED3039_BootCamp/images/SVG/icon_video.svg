@@ -1,0 +1,29 @@
+<svg id="icon_video" data-name="icon video" xmlns="http://www.w3.org/2000/svg" width="80" height="78.689" viewBox="0 0 80 78.689">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="beer_hero_image" data-name="beer hero image">
+    <g id="beer_image" data-name="beer image" class="cls-1">
+      <ellipse class="cls-3" cx="40" cy="39.344" rx="40" ry="39.344"/>
+      <ellipse class="cls-4" cx="40" cy="39.344" rx="39" ry="38.344"/>
+    </g>
+  </g>
+  <path id="arrow_right" data-name="arrow right" class="cls-2" d="M13,0,26,23.214H0Z" transform="translate(54.707 28.82) rotate(90)"/>
+</svg>

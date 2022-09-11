@@ -24,6 +24,8 @@
  - Html
  - CSS
  - JavaScript
+ When you open the "About Us"page, you can click the members'photo and get more information. After you check all the information, you can use "close" button to shut down all information. When you open the "Home" page, you can see a video and click "play""pause" and "stop" to get differenct feeling.
+ All the JS is made by Ying Yang. She learns some knowledge during the summer and improves it.
 
 Enjoy!
 

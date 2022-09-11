@@ -1,5 +1,4 @@
 # Group9_BOOTCAMP1
-<img align="center" src="images/cover_pic1.jpg">
 
 <h1 align="center"> Astro Digital </h1>
 
